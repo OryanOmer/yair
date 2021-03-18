@@ -1,10 +1,12 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
+import 'whatsapp-button/whatsapp-button.js';
 
 const Header = () => {
   return (
     <div className="section" id="home">
+
       <div className="container">
         <div className="header-wrapper">
           <Fade bottom>
