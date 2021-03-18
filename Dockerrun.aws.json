@@ -1,0 +1,14 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "oryanos/oryanomer-resume:v10",
+    "Update": "true"
+  },
+  "Authentication": {
+    "Bucket": "elasticbeanstalk-eu-central-1-578900515238",
+    "Key": "cred_docker.json"
+  },
+  "Ports": [{
+    "ContainerPort": "80"
+  }]
+}
