@@ -1,7 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
-import 'whatsapp-button/whatsapp-button.js';
 
 const Header = () => {
   return (
@@ -9,6 +8,9 @@ const Header = () => {
 
       <div className="container">
         <div className="header-wrapper">
+          <div>
+          <script src="https://unpkg.com/whatsapp-button?module" type="module"></script>
+          </div>
           <Fade bottom>
             <h2>
               היי אני יאיר זקס
