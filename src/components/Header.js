@@ -31,7 +31,8 @@ const Header = () => {
             <p></p>
             <p>אשמח להציע לך שירות אדיב ומקצועי</p>
           </Fade>
-          <whatsapp-button phone="0549133012" dialcode="972" text="היי אני מעוניין/ת בשירותים שלך, אשמח לקבל פרטים נוספים" label="צור איתי קשר"></whatsapp-button>
+          <whatsapp-button phone="0549133012" dialcode="972" text="היי אני מעוניין/ת בשירותים שלך, אשמח לקבל פרטים נוספים" label="צור איתי קשר"/>
+
         </div>
       </div>
     </div>
