@@ -14,7 +14,7 @@
     font-family: "Open Sans";
     text-align: center;
     padding: 10px;
-    opacity: 0;
+    opacity: 1;
     transition: all 500ms ease-in-out;
     transform: translate(0, 20px);
     cursor: pointer;
@@ -34,9 +34,6 @@
       padding: 10px;
       text-decoration: none;
     }
-    &:hover {
-      opacity: 1;
-      transform: translate(0, 0px);
-    }
+
   }
 }
