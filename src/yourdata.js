@@ -95,7 +95,7 @@ export default {
         "", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.ibb.co/7gBsqvd/image-3.jpg",
+        "https://www.gogolocksmith.com/wp-content/uploads/2016/12/%D7%9E%D7%A0%D7%92%D7%A0%D7%95%D7%9F-%D7%A8%D7%91-%D7%91%D7%A8%D7%99%D7%97-.jpg",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -104,7 +104,7 @@ export default {
       para: "", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "http://www.up2me.co.il/imgs/4136123.jpeg",
+        "https://i.ibb.co/7gBsqvd/image-3.jpg",
       //Project URL - Add Your Project Url Here
     },
 
