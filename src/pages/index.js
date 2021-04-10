@@ -11,11 +11,14 @@ import Promotion from "../components/Promotion"
 import Footer from "../components/Footer"
 
 const IndexPage = () => (
+
+
   <Layout>
     <Header></Header>
     <Work></Work>
     <Footer></Footer>
   </Layout>
+
 )
 
 export default IndexPage
