@@ -19,7 +19,7 @@ const Header = () => {
               </span>
             </h2>
             <div className='yair-picture'>
-              <img src='https://scontent.fsdv3-1.fna.fbcdn.net/v/t1.0-9/119588945_3401312286582407_3706684961984721063_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=mG3MR8ZKVB8AX9rAx31&_nc_ht=scontent.fsdv3-1.fna&oh=8a4d541d43bc2c71f181364c552b5626&oe=607EC3B1'/>
+              <img src='https://scontent.fsdv3-1.fna.fbcdn.net/v/t1.6435-9/119588945_3401312286582407_3706684961984721063_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=174925&_nc_ohc=lYsIR44BRmYAX8R8BJ2&_nc_ht=scontent.fsdv3-1.fna&oh=5ea2504fbecafa38d66736e96ea4a7fc&oe=60AF1E64'/>
             </div>
           </Fade>
           <Fade bottom cascade>
